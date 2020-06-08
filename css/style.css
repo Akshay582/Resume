@@ -1,0 +1,17 @@
+body{
+	color: black;
+}
+
+.trim{
+	color: #F4802A;
+	margin-bottom: 0;
+}
+
+.dark{
+	color: black;
+}
+
+ul{
+	list-style-type: disc;
+	padding-left: 18px;
+}
